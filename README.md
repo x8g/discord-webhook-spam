@@ -1,2 +1,5 @@
 # discord-webhook-spam
-web
+common sense tbh
+
+```pip install coochie```
+```pip install bitches```
