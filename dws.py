@@ -6,6 +6,9 @@ import regex
 import json
 import random
 
+# discord webhook spammer common sense how to use?
+# if you need help zt#7380
+
 logging.basicConfig(
         level=logging.INFO,
         format='\u001b[36;1m[\u001b[0m%(asctime)s\u001b[36;1m]\u001b[0m %(message)s\u001b[0m',
