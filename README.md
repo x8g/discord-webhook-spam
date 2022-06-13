@@ -1,9 +1,7 @@
 # Discord Webhook Spammer
 common sense tbh
 
-```pip install coochie```
-***-----***
-```pip install bitches```
+``pip install coochie``
 
-# creds
-``` -> github.com/b6m```
+# [creds](https://github.com/b6m)
+``` -> rip/b6m click creds to see his github```
